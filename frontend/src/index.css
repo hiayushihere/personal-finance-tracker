@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .input {
+    @apply w-full rounded-xl border border-slate-300 bg-white px-4 py-2.5 text-sm
+    placeholder-slate-400 shadow-sm
+    focus:border-blue-500 focus:ring-2 focus:ring-blue-200
+    transition;
+  }
+
+  .btn-primary {
+    @apply rounded-xl bg-gradient-to-r from-blue-600 to-emerald-500
+    px-4 py-2.5 text-sm font-medium text-white
+    shadow-md hover:opacity-90 transition;
+  }
+
+  .btn-secondary {
+    @apply rounded-xl border border-slate-300 px-4 py-2.5 text-sm
+    hover:bg-slate-100 transition;
+  }
+}
