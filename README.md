@@ -128,6 +128,11 @@ http://localhost:5173
 - JWT tokens are used for authenticated API requests.
 - CORS is enabled for local development.
 
+# DEMO SCREENSHOTS - 
+<img width="1470" height="956" alt="Screenshot 2025-12-14 at 4 18 19 PM" src="https://github.com/user-attachments/assets/09063ec4-9910-49ba-829f-842538325d4b" />
+
+![Uploading Screenshot 2025-12-14 at 4.14.02 PM.png…]()
+
 
 
 
