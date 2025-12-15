@@ -129,10 +129,13 @@ http://localhost:5173
 - CORS is enabled for local development.
 
 # DEMO SCREENSHOTS - 
-<img width="1470" height="956" alt="Screenshot 2025-12-14 at 4 18 19 PM" src="https://github.com/user-attachments/assets/09063ec4-9910-49ba-829f-842538325d4b" />
+<img width="1408" height="792" alt="Screenshot 2025-12-15 at 4 21 01 PM" src="https://github.com/user-attachments/assets/0f0d5f78-68b9-4f63-b4d9-628d4948fd28" />
 
-![Uploading Screenshot 2025-12-14 at 4.14.02 PM.png…]()
 
+
+
+
+<img width="1399" height="779" alt="Screenshot 2025-12-15 at 4 22 07 PM" src="https://github.com/user-attachments/assets/b365fe72-b552-49af-b1b1-e1ffdba3ec83" />
 
 
 
